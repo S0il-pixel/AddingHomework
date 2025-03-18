@@ -61,5 +61,5 @@ namespace TestProject1
             }
             else { Assert.AreEqual(j / i, result); }
         }
-    }
+    } 
 }
