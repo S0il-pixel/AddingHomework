@@ -9,24 +9,25 @@ namespace AddingHomework
 {
     public class PROJECT
     {
-        //I'm not totally sure what the instructions means, but I will sure do my best.
-        public static int addition()
+        public static int Add()
         {
-            int j = 0;
-           
-            for(int i = 0; i < 1000; i++)
-            {
-                for(j = 0; j < 10000000; j++)
-                {
-                    j = j + j + 1;
-                }
-            }
-            return j;
+            return 0;
         }
 
-        public static void Main(string[] args)
+        public static int Divide()
         {
-            Console.WriteLine(addition());
+            return 0;
         }
+
+        public static int Multiplication()
+        {
+            return 0;
+        }
+
+        public static int Subtract()
+        {
+            return 0;
+        }
+
     }
 }
